@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4730903008120326645
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ancient_Ruins_Water
+  m_Shader: {fileID: -6465566751694194690, guid: 2cddf2ee6a74aca44af00f5a49bd2cf1, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_6490A223:
+        m_Texture: {fileID: 2800000, guid: f87d53fcaf34530488b706ee35d9b519, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CausticsTexture:
+        m_Texture: {fileID: 2800000, guid: f100fa7196708e14b9ad43a562e6634e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EdgeFoamTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GlintNormalMap:
+        m_Texture: {fileID: 2800000, guid: 381a107aeb4767a488e3b62263b0382f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaveNormalMap:
+        m_Texture: {fileID: 2800000, guid: 1606d47e27863494ba0c833e7bde6324, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_17E53C12: 0.75
+    - Vector1_244B0600: 1
+    - Vector1_36E8227: 0.5
+    - Vector1_3D886DA1: 0
+    - Vector1_46E42935: 0.2
+    - Vector1_47683D42: 0.85
+    - Vector1_A0EAD698: 1
+    - Vector1_A6A0BC26: 0.08
+    - Vector1_B9F56378: 0.5
+    - Vector1_C360A163: 2
+    - Vector1_E5C51606: 0
+    - Vector1_F38B44AA: 0.2
+    - _CausticsNoiseScale: 0.01
+    - _CausticsPower: 1
+    - _CausticsScale: 12
+    - _CausticsSpeed: 0.1
+    - _DistanceCutoff: 0.06
+    - _EdgeFoamSize: 0.1
+    - _GlintPower: 50
+    - _GlintScale: 20
+    - _GlintSpeed: 0.01
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReflectionPower: 0.4
+    - _SunSpecularPower: 30
+    - _WaterDepth: 0.278
+    - _Wave1Amps: 0.1
+    - _Wave1Dir: 0.65
+    - _Wave1Length: 1.5
+    - _Wave1Speed: 0.1
+    - _Wave2Amps: 0.15
+    - _Wave2Dir: 0.7
+    - _Wave2Length: 5
+    - _Wave2Speed: 0.75
+    - _WaveFrequency: 3
+    - _WaveNormalScale: 50
+    - _WaveNormalSpeed: 0.02
+    - _WaveScale: 0.1
+    - _WaveSpeed: 1
+    m_Colors:
+    - Color_7D9A58EC: {r: 0.14035237, g: 0.16532877, b: 0.35849056, a: 0}
+    - Color_F01C36BF: {r: 0.10196077, g: 0.462745, b: 0.57647055, a: 1}
+    - Vector2_37B21477: {r: 1, g: 1, b: 0, a: 0}
+    - _DeepColor: {r: 0, g: 0.72, b: 0.71, a: 1}
+    - _DistanceColor: {r: 0.04, g: 0.24, b: 0.67, a: 1}
+    - _EdgeFoamColor: {r: 0.4528302, g: 0.4528302, b: 0.4528302, a: 1}
+    - _GlintColor: {r: 0.47, g: 0.47, b: 0.47, a: 1}
+    - _ShallowColor: {r: 0.9103774, g: 0.9813572, b: 1, a: 1}
+    - _SpecColor: {r: 1, g: 0.35, b: 0.15, a: 1}
+    - _SubSurfColor: {r: 1, g: 0.6, b: 0.47, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

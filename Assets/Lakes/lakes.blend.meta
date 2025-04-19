@@ -7,13 +7,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Distance
+    second: {fileID: 2100000, guid: 766e8fafc3337dd459e4ad28374c9510, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sky
+    second: {fileID: 2100000, guid: 853151b4126bdb24aa316c27717c085c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Terrain
-    second: {fileID: 2100000, guid: 3d37360300c439d458fbdd18e8a85105, type: 2}
+    second: {fileID: 2100000, guid: 89caf687f11a0014aa5c5c4be745adaf, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Water
-    second: {fileID: 2100000, guid: c50fb3051a3aca04abb80b9b8318a87b, type: 2}
+    second: {fileID: 2100000, guid: 4df7cb61b2076694d8b34d1c7e80ac3c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -435,8 +435,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.15930408, y: 0.07780239, z: -0.012752872, w: 0.9840764}
-  m_LocalPosition: {x: 2.1148524, y: 2.3222964, z: -6.8975716}
+  m_LocalRotation: {x: -0.2467893, y: 0.5880836, z: -0.19476485, w: -0.74519753}
+  m_LocalPosition: {x: 16.995424, y: 13.414402, z: -3.8375072}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -465,7 +465,7 @@ MonoBehaviour:
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 1
+  m_RenderPostProcessing: 0
   m_Antialiasing: 1
   m_AntialiasingQuality: 2
   m_StopNaN: 0
@@ -694,7 +694,7 @@ PrefabInstance:
     - target: {fileID: 7887389054490525368, guid: 7f81428616a7d8f488610b7f41df0d88, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e07651fffb6b1444cbd71f48c4e416c7, type: 2}
+      objectReference: {fileID: 2100000, guid: 2300b957fa37fa24f9764cb21bc048e0, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

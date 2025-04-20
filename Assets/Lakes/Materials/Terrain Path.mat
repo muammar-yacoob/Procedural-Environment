@@ -25,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Grass_Dense_Tint_01_Base_Basecolor_C:
-        m_Texture: {fileID: 2800000, guid: 3cf543484d2fb7347b203b934a632fa6, type: 3}
+        m_Texture: {fileID: 2800000, guid: e65e8c6f286469944a22f2777d8e870c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Path_Map:
@@ -57,7 +57,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Tiling: {r: 0, g: 0, b: 0, a: 0}
+    - _Tiling: {r: 20, g: 20, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &8778976862289365177

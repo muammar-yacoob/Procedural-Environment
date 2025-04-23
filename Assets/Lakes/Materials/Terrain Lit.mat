@@ -54,11 +54,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Blend: 0.2
-    - _Coverage: 0.747
+    - _Blend: 0.128
+    - _Coverage: 0.71
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Rotation: 6.45
+    - _Rotation: -30.85
     - _Smoothness: 0.1
     m_Colors:
     - _Tiling: {r: 20, g: 20, b: 0, a: 0}

@@ -8,26 +8,31 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Distance
-    second: {fileID: 2100000, guid: 766e8fafc3337dd459e4ad28374c9510, type: 2}
+    second: {fileID: 2100000, guid: 22ad2ba1ccf5e904e9cd28821bbd517f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: de7e8c94f567b7b4fae37157766edc17, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Sky
-    second: {fileID: 2100000, guid: 853151b4126bdb24aa316c27717c085c, type: 2}
+    second: {fileID: 2100000, guid: b5326ca714afbf443b4a34b9a886d7a4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Terrain
-    second: {fileID: 2100000, guid: 89caf687f11a0014aa5c5c4be745adaf, type: 2}
+    second: {fileID: 2100000, guid: e07651fffb6b1444cbd71f48c4e416c7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Water
-    second: {fileID: 2100000, guid: 4df7cb61b2076694d8b34d1c7e80ac3c, type: 2}
+    second: {fileID: 2100000, guid: 45523b5424f31444682051e8ae110f66, type: 2}
   materials:
-    materialImportMode: 2
-    materialName: 0
-    materialSearch: 1
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 0
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4

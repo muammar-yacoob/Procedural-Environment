@@ -25,9 +25,6 @@
             "m_Id": "b64e4ff3d7e146b3bbffe0d03aaca203"
         },
         {
-            "m_Id": "060e50f997a14d94a0dc9973be3ae251"
-        },
-        {
             "m_Id": "2735edaa5ef445ccbdcc068f5d3b0f59"
         },
         {
@@ -636,34 +633,6 @@
 }
 
 {
-    "m_SGVersion": 1,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
-    "m_ObjectId": "060e50f997a14d94a0dc9973be3ae251",
-    "m_Guid": {
-        "m_GuidSerialized": "88acc3b4-6063-42b8-9da7-92609d10cc86"
-    },
-    "m_Name": "Rotation",
-    "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Rotation",
-    "m_DefaultReferenceName": "_Rotation",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_UseCustomSlotLabel": false,
-    "m_CustomSlotLabel": "",
-    "m_DismissedVersion": 0,
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": 0.0,
-    "m_FloatType": 0,
-    "m_RangeValues": {
-        "x": 0.0,
-        "y": 1.0
-    }
-}
-
-{
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "0acee1298cf84fadbc87c9e5d2bf1025",
@@ -814,7 +783,7 @@
     "m_Title": "Slop Texture",
     "m_Position": {
         "x": -1671.0,
-        "y": 383.0000305175781
+        "y": 383.0001525878906
     }
 }
 
@@ -1987,8 +1956,8 @@
     "m_ObjectId": "625d5e58c8294902acb5ccf80f98f155",
     "m_Title": "Land Texture",
     "m_Position": {
-        "x": -1451.0,
-        "y": 16.0
+        "x": -1450.9998779296875,
+        "y": 16.00006103515625
     }
 }
 
@@ -2339,7 +2308,7 @@
     "m_ObjectId": "835825e00b2f420ea714fc46a905c903",
     "m_Title": "Path",
     "m_Position": {
-        "x": -1461.0,
+        "x": -1460.9998779296875,
         "y": -547.0
     }
 }
@@ -3841,9 +3810,6 @@
         },
         {
             "m_Id": "4ba7f121f8944f6aa3726d41d219b802"
-        },
-        {
-            "m_Id": "060e50f997a14d94a0dc9973be3ae251"
         }
     ]
 }

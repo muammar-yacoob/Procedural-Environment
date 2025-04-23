@@ -39,8 +39,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _Depth: 0.54
-    - _Foam_Amount: 3.7
-    - _Foam_Cutoof: 13.69
+    - _Foam_Amount: 0.38
+    - _Foam_Cutoof: 15.52
     - _Foam_Scale: 1
     - _Foam_Speed: 0.08
     - _QueueControl: 0

@@ -12,18 +12,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Path
+    second: {fileID: 2100000, guid: 2300b957fa37fa24f9764cb21bc048e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Sky
     second: {fileID: 2100000, guid: b5326ca714afbf443b4a34b9a886d7a4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Terrain
-    second: {fileID: 2100000, guid: e07651fffb6b1444cbd71f48c4e416c7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Water
-    second: {fileID: 2100000, guid: 45523b5424f31444682051e8ae110f66, type: 2}
+    second: {fileID: 2100000, guid: c989a0b7e8da23541814641772c84a66, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -53,7 +53,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 10
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -108,7 +108,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 10
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

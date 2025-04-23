@@ -29,7 +29,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Path_Map:
-        m_Texture: {fileID: 2800000, guid: 5e7427394be9a2d43aab26f00d545d45, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6084c1ae1e4956e4185615ce4fc9fc4c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Path_Texture:
